@@ -12,9 +12,9 @@ The latest version is available on https://github.com/CaptainCrumb999RobloxYT/Ul
 
 The official releases (same downloads as the Windows builds above) also contain the Linux version of Mesen, built under Ubuntu 16 - you should be able to use that in most cases if you are using Ubuntu.
 
-The Linux version is a standard .NET executable file and requires Mono to run - you may need to configure your environment to allow it to automatically run .exe files through Mono, or manually run Mesen by using mono (e.g: "mono Mesen.exe").
+The Linux version is a standard .NET executable file and requires Mono to run - you may need to configure your environment to allow it to automatically run .exe files through Mono, or manually run UltimateNESemu by using mono (e.g: "mono UltimateNESemu.exe").
 
-The following packages need to be installed to run Mesen:
+The following packages need to be installed to run UltimateNESemu:
 
 * mono-complete
 * libsdl2-2.0
