@@ -1,12 +1,12 @@
-# UltamiteNESemu
+# UltimateNESemu
 
-UltamiteNESemu is a fork of Mesen, The Best NES Emulator as of the creation of this emulator.
+UltimateNESemu is a fork of Mesen, The Best NES Emulator as of the creation of this emulator.
 
 ## Releases
 
 ### Windows
 
-The latest version is available on https://github.com/CaptainCrumb999RobloxYT/UltamiteNESemu/releases).
+The latest version is available on https://github.com/CaptainCrumb999RobloxYT/UltimateNESemu/releases).
 
 ### Ubuntu
 
@@ -35,7 +35,7 @@ Things I should add:
 
 ## License
 
-UltamiteNESemu is available under the GPL V3 license.  Full text here: <http://www.gnu.org/licenses/gpl-3.0.en.html>
+UltimateNESemu is available under the GPL V3 license.  Full text here: <http://www.gnu.org/licenses/gpl-3.0.en.html>
 
 Copyright (C) 2021
 
