@@ -91,13 +91,13 @@ namespace Mesen.GUI.Forms
 
 			_language = language;
 
-			using(Stream stream = ResourceManager.GetZippedResource(filename)) {
+			/*using(Stream stream = ResourceManager.GetZippedResource(filename)) {
 				_resources.Load(stream);
 			}
 
 			using(Stream stream = ResourceManager.GetZippedResource(enFilename)) {
 				_enResources.Load(stream);
-			}
+			}*/
 		}
 
 		private static Language DetectLanguage()
