@@ -32,7 +32,7 @@ List of things that should be added
 * Support for more UNIF boards and more NES/Famicom input devices
 * Shaders
 * TAS editor
-* macOS, FreeBSD, and more Computer Ports, Mobile Ports, and Console ports. (Sega Genesis-Xbox One) https://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators#Emulators
+* macOS, FreeBSD, and more Computer Ports, Mobile Ports, and Console ports. (SMS-Xbox One/Series X) https://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators#Emulators
 
 ## License
 
