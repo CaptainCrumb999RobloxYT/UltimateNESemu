@@ -27,11 +27,12 @@ The default Mono version in Ubuntu 18.04 is 4.6.2 (which also causes some layout
 
 ## Roadmap
 
-Things I should add:
+List of things that should be
 
 * Support for more UNIF boards and more NES/Famicom input devices
 * Shaders
 * TAS editor
+* macOS, FreeBSD, and more Computer Ports, Mobile Ports, and Console ports. (Sega Genesis-Xbox Series X) https://emulation.gametechwiki.com/index.php/Nintendo_Entertainment_System_emulators#Emulators
 
 ## License
 
@@ -53,6 +54,8 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## Other Things
+
+If anyone is looking forward to collabing with me, The Creator of this Fork, Make a Pull Request, Because I don't know C++, C#, C, Objective-C, Makefile, or Lua.
 
 Roblox Group: https://web.roblox.com/groups/4781785/Captain-Crumbs-Group
 
