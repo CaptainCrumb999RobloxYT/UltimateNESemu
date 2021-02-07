@@ -23,7 +23,7 @@ The following packages need to be installed to run UltimateNESemu:
 **Note:** **Mono 5.18 or higher is recommended**, some older versions of Mono (e.g 4.2.2) have some stability and performance issues which can cause crashes and slow down the UI.
 The default Mono version in Ubuntu 18.04 is 4.6.2 (which also causes some layout issues in Mesen).  To install the latest version of Mono, follow the instructions here: https://www.mono-project.com/download/stable/#download-lin
 
-**Note** **I am looking forward to releasing this emulator on macOS and FreeBSD, and eventually MS-DOS and Solaris. Also, I want to release this on mobile and consoles (SMS-Xbox Series X)
+**Note** I am looking forward to releasing this emulator on macOS and FreeBSD, and eventually MS-DOS and Solaris. Also, I want to release this on mobile and consoles (SMS-Xbox Series X)
 
 ## Roadmap
 
