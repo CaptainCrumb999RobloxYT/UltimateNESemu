@@ -27,7 +27,7 @@ The default Mono version in Ubuntu 18.04 is 4.6.2 (which also causes some layout
 
 ## Roadmap
 
-List of things that should be
+List of things that should be added
 
 * Support for more UNIF boards and more NES/Famicom input devices
 * Shaders
