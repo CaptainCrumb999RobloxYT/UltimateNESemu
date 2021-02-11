@@ -55,7 +55,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## Other Things
 
-If anyone is looking forward to collabing with me, The Creator of this Fork, Make a Pull Request, Because I don't know C++, C#, C, Objective-C, Makefile, or Lua.
+If anyone is looking forward to collabing with me, The Creator of this Fork, Make a Issue, Because I don't know C++, C#, C, Objective-C, Makefile, or Lua.
 
 Roblox Group: https://web.roblox.com/groups/4781785/Captain-Crumbs-Group
 
